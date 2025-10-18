@@ -12,8 +12,9 @@ List of fully completed projects:
 - RESNet Implementation for Image Classification
 
 -> Natural Language Processing:
+- Kaggle Chat Assistant using Retrieval Augmented Generation and Gemma LLM (Google Gemini)
+- AI Data Analysis Agent using OpenAI LLM backend, Duck DB, Streamlit and Pandas
 - Markov Chain Models for Text Generation
-- Kaggle Chat Assistant using Retrieval Augmented Generation
 - Movie Genre Classifier using Data Augmentaiton, GLoVe Embeddings and Bi-Directional LSTM
 - Detecting AI Generated Essays using Data Augmentation and LSTM
 
