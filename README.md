@@ -13,13 +13,12 @@ List of fully completed projects:
 
 -> Natural Language Processing:
 - Markov Chain Models for Text Generation
+- Kaggle Chat Assistant using Retrieval Augmented Generation
 - Movie Genre Classifier using Data Augmentaiton, GLoVe Embeddings and Bi-Directional LSTM
 - Detecting AI Generated Essays using Data Augmentation and LSTM
 
 -> Reinforcement Learning:
 - Particle and Kalman Filter Implementation for Ball Throwing 
-
-
 
 On-going projects:
 - VAE Implementation
