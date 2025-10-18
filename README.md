@@ -21,7 +21,7 @@ Each project folder includes a dedicated README explaining:
 
 ### 📝 Natural Language Processing
 - **Kaggle Chat Assistant** – Retrieval Augmented Generation with Gemma LLM (Google Gemini).  
-- **AI Data Analysis Agent** – Local data analysis using OpenAI LLM, DuckDB, Streamlit, and Pandas.  
+- **AI Data Analysis Agent** – Local data analysis using OpenAI LLM (ChatGPT), DuckDB, Streamlit, and Pandas.  
 - **Markov Chain Models for Text Generation** – Generative text models using Markov chains.  
 - **Movie Genre Classifier** – Uses data augmentation, GloVe embeddings, and Bi-Directional LSTM.  
 - **Detecting AI-Generated Essays** – LSTM-based detection with data augmentation techniques.  
