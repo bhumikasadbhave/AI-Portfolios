@@ -1,10 +1,10 @@
-📘 Kaggle Chat Assistant using Retrieval-Augmented Generation (RAG)
+### 📘 Kaggle Chat Assistant using Retrieval-Augmented Generation (RAG)
 
 A conversational AI assistant built specifically for Kaggle users — enhanced with Retrieval-Augmented Generation so answers are grounded in **your own competition resources**, not just general LLM knowledge.
 
 ---
 
-🚀 Project Objective
+#### 🚀 Project Objective
 
 The goal is to help you interact with Kaggle datasets, code, and documentation conversationally — while ensuring that answers are **accurate, contextual, and Kaggle-aware**, instead of generic LLM replies.
 
@@ -12,7 +12,7 @@ RAG enables the assistant to **retrieve relevant project-specific context first*
 
 ---
 
-✅ What This Assistant Can Do
+#### ✅ What This Assistant Can Do
 
 * Understand your Kaggle problem and datasets conversationally
 * Pull relevant context from your **own notebooks / documentation**
@@ -22,7 +22,7 @@ RAG enables the assistant to **retrieve relevant project-specific context first*
 
 ---
 
-📂 Project Structure (in this repo)
+#### 📂 Project Structure (in this repo)
 
 * `rag-kaggle-assistant.ipynb` — main development notebook
 * (other files will be documented once you confirm structure)
