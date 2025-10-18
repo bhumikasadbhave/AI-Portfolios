@@ -1,26 +1,30 @@
-This repository includes the projects completed by me as during my Masters in Artificial Intelligence at The Technical University of Applied Sciences Würzburg-Schweinfurt.
-All the project folders include their own readme files to explain the goal, and how it has been achieved. It also includes some guidelines on how to reproduce the results.
+# 🎓 Masters in AI Portfolio Projects  
 
-List of fully completed projects:
+This repository contains projects completed during my **Master's in Artificial Intelligence** at the **Technical University of Applied Sciences Würzburg-Schweinfurt**.  
 
--> Machine Learning:
-- Protein Sequence Clustering using Affinity Propagation
-- Skeleton Movement (Temporal Data) Classification
-    
--> Deep Learning:
-- Multi-Layer Perceptron and Convolutional Neural Networks for Image Classification
-- RESNet Implementation for Image Classification
+Each project folder includes a dedicated README explaining:  
+- 🎯 The **goal** of the project  
+- 🛠️ The **methodology** and implementation details  
+- 🔄 Guidelines to **reproduce the results**  
 
--> Natural Language Processing:
-- Kaggle Chat Assistant using Retrieval Augmented Generation and Gemma LLM (Google Gemini)
-- AI Data Analysis Agent using OpenAI LLM backend, Duck DB, Streamlit and Pandas
-- Markov Chain Models for Text Generation
-- Movie Genre Classifier using Data Augmentaiton, GLoVe Embeddings and Bi-Directional LSTM
-- Detecting AI Generated Essays using Data Augmentation and LSTM
+---
 
--> Reinforcement Learning:
-- Particle and Kalman Filter Implementation for Ball Throwing 
+## 📂 Completed Projects
 
-On-going projects:
-- VAE Implementation
-- BlackJack Implementation
+### 🤖 Machine Learning
+- **Protein Sequence Clustering** – Using Affinity Propagation for clustering protein sequences.  
+- **Skeleton Movement Classification** – Temporal data classification of human skeleton movements.  
+
+### 🧠 Deep Learning
+- **MLP & CNN for Image Classification** – Implementations of Multi-Layer Perceptrons and Convolutional Neural Networks.  
+- **ResNet for Image Classification** – Residual Network implementation for image classification tasks.  
+
+### 📝 Natural Language Processing
+- **Kaggle Chat Assistant** – Retrieval Augmented Generation with Gemma LLM (Google Gemini).  
+- **AI Data Analysis Agent** – Local data analysis using OpenAI LLM, DuckDB, Streamlit, and Pandas.  
+- **Markov Chain Models for Text Generation** – Generative text models using Markov chains.  
+- **Movie Genre Classifier** – Uses data augmentation, GloVe embeddings, and Bi-Directional LSTM.  
+- **Detecting AI-Generated Essays** – LSTM-based detection with data augmentation techniques.  
+
+### 🎮 Reinforcement Learning
+- **Particle and Kalman Filter Implementation** – Simulation and filtering for ball throwing experiments.  
