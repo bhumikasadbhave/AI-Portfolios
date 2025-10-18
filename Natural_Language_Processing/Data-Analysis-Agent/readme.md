@@ -22,7 +22,7 @@ An intelligent data analysis agent that lets you **ask natural language question
 jupyter notebook
 ```
 
-# then open the prebuilt notebook included in this repo
+Then open the prebuilt notebook included in this repo
 
 The notebook includes:
 - Code + narrative explanation
