@@ -1,4 +1,4 @@
-# 📊 AI Data Analysis Agent (LLM + DuckDB + Pandas)
+# 📊 AI Data Analysis Agent (Open AI LLM + DuckDB + Pandas)
 
 An intelligent data analysis agent that lets you **ask natural language questions about your data** — powered by **LLMs + DuckDB + Pandas**. Demoed in either **Jupyter Notebook** or **Streamlit UI**.
 
